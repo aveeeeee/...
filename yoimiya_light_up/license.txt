@@ -1,0 +1,11 @@
+Model Information:
+* title:	Yoimiya light up
+* source:	https://sketchfab.com/3d-models/yoimiya-light-up-ef273ef2ceae44dd89e721b729cae71e
+* author:	wuyo67 (https://sketchfab.com/wuyo67)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Yoimiya light up" (https://sketchfab.com/3d-models/yoimiya-light-up-ef273ef2ceae44dd89e721b729cae71e) by wuyo67 (https://sketchfab.com/wuyo67) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
